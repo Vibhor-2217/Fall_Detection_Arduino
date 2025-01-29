@@ -4,7 +4,7 @@ This project uses YOLO pretrained model to train the model and then using opencv
 # Setting up on your device 
 Step 1: Clone the repo 
 
-Step 2: Change the path according to your device in dataset.yaml
+Step 2: Change the path of the pre-trained model, according to your device, in dataset.yaml
 
 Step 3: In the fall.py file, change the websocket host and port according to your device (you can also leave it the way it is)
 
