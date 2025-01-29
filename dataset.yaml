@@ -1,0 +1,5 @@
+path: C:/Users/vibho/Desktop/FallDetection/fall_dataset  # Adjust this path based on your directory
+train: images/train
+val: images/val
+nc: 2  # Number of classes
+names: ['notfall', 'fall']
