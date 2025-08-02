@@ -23,7 +23,7 @@ The model is trained using the **Fall Detection Dataset** from Kaggle:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Fall_Detection_Arduino.git
+git clone https://github.com/Vibhor-2217/Fall_Detection_Arduino.git
 cd Fall_Detection_Arduino
 ```
 
@@ -63,13 +63,6 @@ Ensure the WebSocket URL matches the one from `fall.py`.
 - **Libraries**: YOLOv5, OpenCV, WebSocket, Torch
 - **Hardware**: Arduino ESP32 (simulated via Wokwi)
 
----
-
-## 📸 Demo (Optional)
-*Insert GIF or screenshot of fall detection in action*  
-```markdown
-![Demo](demo.gif)
-```
 
 ---
 
@@ -79,8 +72,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🙋‍♂️ Author & Contact
-Developed by [Your Name]  
-📧 Email: your@email.com  
+Developed by [Vibhor Gupta]  
+📧 Email: vibhorgupta22@email.com  
 🌐 Portfolio / GitHub / LinkedIn
 
 ---
